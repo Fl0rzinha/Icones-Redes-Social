@@ -1,0 +1,2 @@
+<!-- Buscar ícones do site fontawesome -->
+    <script src="https://kit.fontawesome.com/0cf1addc68.js" crossorigin="anonymous"></script>
